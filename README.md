@@ -28,3 +28,6 @@ The project follows these steps:
 ## Results
 The analysis provided insights into the trends and seasonality present in the Twitter sentiment data. The smoothed time series and daily aggregated sentiment showed clear patterns that can be used for further analysis and forecasting.
 
+## Plot
+![Daily Sentiment Analysis Over Time](daily_sentiment_plot.pdf)
+
